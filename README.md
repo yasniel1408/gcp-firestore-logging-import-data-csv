@@ -20,7 +20,7 @@ Martin Omander
 
 ## Architecture
 
-![GSP642: Migrating Data to a Firestore Database]("https://cdn.qwiklabs.com/Yfo0T7MHSB8V2VwDmVYNMJQo5bly1%2BtEbv%2FBrpUNbZ8%3D")
+![GSP642: Migrating Data to a Firestore Database](https://cdn.qwiklabs.com/Yfo0T7MHSB8V2VwDmVYNMJQo5bly1%2BtEbv%2FBrpUNbZ8%3D)
 
 ## Description: 
 
