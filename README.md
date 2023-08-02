@@ -11,8 +11,6 @@ node importTestData customers_1000.csv
 
 # Pet Theory
 
-![Pet Theory Logo](https://github.com/rosera/pettheory/blob/master/images/pet_theory_logo.png "Pet Theory")
-
 Twelve years ago, Lily started the Pet Theory chain of veterinary clinics. The Pet Theory chain has expanded rapidly over the last few years. Their old appointment scheduling system is not able to handle the increased load, so Lily is asking you to build a Google Cloud Platform system that scales better than the legacy solution.
 
 Welcome to the Pet Theory Quest.
@@ -22,7 +20,7 @@ Martin Omander
 
 ## Architecture
 
-![GSP642: Migrating Data to a Firestore Database](https://github.com/rosera/pettheory/blob/master/images/gsp642-migrating-data.png "Pet Theory - GSP642")
+![GSP642: Migrating Data to a Firestore Database]("https://cdn.qwiklabs.com/Yfo0T7MHSB8V2VwDmVYNMJQo5bly1%2BtEbv%2FBrpUNbZ8%3D")
 
 ## Description: 
 
